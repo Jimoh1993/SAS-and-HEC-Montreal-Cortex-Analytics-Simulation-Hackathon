@@ -24,6 +24,6 @@ exported to an output file/report.
 Using this output, you will have to decide how many potential donors to target and will have to create a list of IDs of those potential donors. You will have to upload/submit the created list to the platform which will rank the submissions based on operating surplus – i.e., sum of donations minus
 the total cost of calling. 
 
-The detailed description is in pdf Hachathon materials folder.
+The detailed description is in pdf Hachathon materials folder uploded in the directory.
 
 The predictive model we created uses decision tree and random forest machine learnin predictive agorithms to predict the chance of donation before and after contact. And we use multiple linear regression to predict the donation amount. The detailed model is in [Cortex SAS](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html).
