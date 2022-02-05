@@ -1,7 +1,6 @@
 # SAS-and-HEC-Montreal-Cortex-Analytics-Simulation-Hackathon | A Simulation Game to Learn Predictive Analytics
 # Hackathon Ranking: [Ranking](https://drive.google.com/file/d/1JGM6tbJdNf5l0ACu3kKvXC2jYBU4oALv/view?usp=sharing)
 # Hackathon Badge: [Badge](https://www.credly.com/badges/c95fbdc1-49fd-416d-8f59-3e45b926e7b6/linked_in)
-# Hackathon Award Ceremony: [Award Ceremony](https://drive.google.com/file/d/1pOGar80hIkKoqYCTL-wfH-BNoZoAHA_A/view?usp=sharing)
 # Project: Fundraising Campaign
 # HEC Montereal Canada Simulation Lab: [ERPsimLab](http://erpsim.hec.ca/)
 # Cortex Analytics Simulation: [SAS Cortex](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html).
