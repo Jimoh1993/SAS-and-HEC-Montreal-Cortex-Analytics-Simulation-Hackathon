@@ -2,7 +2,7 @@
 # Project: Fundraising Scenario Campaign
 # Date: December 2021 
 # Time: 3 days 72 hours Hackathon
-# Venue: 1337 Coding UM6P Institute UM6P, Ben Guerir, Morocco
+# Venue: 1337 Coding Institute UM6P, Ben Guerir, Morocco
 # Organizers: Mohammed VI Polytechnic University Morocco, SAS Enterprise Morocco, ERPsimLab HEC Montereal Canada
 This project is a  to create a predictive model to analyze the donor's behavior to maximize the operating surplus for the fundraising campaign. The model platform is created by SAS .
 
