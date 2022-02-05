@@ -1,9 +1,11 @@
 # SAS-and-HEC-Montreal-Cortex-Analytics-Simulation-Hackathon | A Simulation Game to Learn Predictive Analytics
+# Hackathon Badge: [Badge](https://www.credly.com/badges/c95fbdc1-49fd-416d-8f59-3e45b926e7b6/linked_in)
 # Project: Fundraising Scenario Campaign
-# Date: December 2021 
-# Time: 3 days 72 hours Hackathon
 # Venue: 1337 Coding Institute UM6P, Ben Guerir, Morocco
 # Organizers: Mohammed VI Polytechnic University Morocco, SAS Enterprise Morocco, ERPsimLab HEC Montereal Canada
+# Date: December 2021 
+# Time: 3 days 72 hours Hackathon
+
 This project is a  to create a predictive model to analyze the donor's behavior to maximize the operating surplus for the fundraising campaign. The model platform is created by SAS .
 
 Serious games to learn enterprise systems and business analytics [ERPsimLab](http://erpsim.hec.ca/)
