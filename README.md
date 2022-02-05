@@ -1,11 +1,12 @@
 # SAS-and-HEC-Montreal-Cortex-Analytics-Simulation-Hackathon | A Simulation Game to Learn Predictive Analytics
 # Hackathon Ranking: [Ranking](https://drive.google.com/file/d/1JGM6tbJdNf5l0ACu3kKvXC2jYBU4oALv/view?usp=sharing)
-# Hackathon Badge: [Badge](https://www.credly.com/badges/c95fbdc1-49fd-416d-8f59-3e45b926e7b6/linked_in)
+# Hackathon Digital Badge: [Badge](https://www.credly.com/badges/c95fbdc1-49fd-416d-8f59-3e45b926e7b6/linked_in)
 # Project: Fundraising Campaign
 # HEC Montereal Canada Simulation Lab: [ERPsimLab](http://erpsim.hec.ca/)
 # Cortex Analytics Simulation: [SAS Cortex](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html).
-# Venue: 1337 Coding Institute UM6P, Ben Guerir, Morocco | Virtual & Remote Hackathon
-# Organizers: Mohammed VI Polytechnic University Morocco, SAS Enterprise Morocco, ERPsimLab HEC Montereal Canada
+# Venue: [1337 Coding Institute UM6P](https://1337.ma/en/)
+# Location: Ben Guerir, Morocco, North Africa
+# Organizers: [Mohammed VI Polytechnic University](https://um6p.ma/), [SAS](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html), [ERPsimLab HEC Montereal Canada](http://erpsim.hec.ca/)
 # Date: December 2021 
 # Time: 3 days 72 hours Hackathon
 
