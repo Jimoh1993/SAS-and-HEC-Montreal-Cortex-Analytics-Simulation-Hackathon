@@ -5,7 +5,7 @@
 # Project: Fundraising Campaign
 # HEC Montereal Canada Simulation Lab: [ERPsimLab](http://erpsim.hec.ca/)
 # Cortex Analytics Simulation: [SAS Cortex](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html).
-# Venue: 1337 Coding Institute UM6P, Ben Guerir, Morocco | Virtual / Remote Hackathon
+# Venue: 1337 Coding Institute UM6P, Ben Guerir, Morocco | Virtual & Remote Hackathon
 # Organizers: Mohammed VI Polytechnic University Morocco, SAS Enterprise Morocco, ERPsimLab HEC Montereal Canada
 # Date: December 2021 
 # Time: 3 days 72 hours Hackathon
