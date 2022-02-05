@@ -3,7 +3,7 @@
 # Hackathon Digital Badge: [Badge](https://www.credly.com/badges/c95fbdc1-49fd-416d-8f59-3e45b926e7b6/linked_in)
 # Project: Fundraising Campaign
 # HEC Montereal Canada Simulation Lab: [ERPsimLab](http://erpsim.hec.ca/)
-# Cortex Analytics Simulation: [SAS Cortex](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html).
+# Cortex Analytics Simulation: [SAS Cortex](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html)
 # Venue: [1337 Coding Institute UM6P](https://1337.ma/en/)
 # Location: Ben Guerir, Morocco, North Africa
 # Organizers: [Mohammed VI Polytechnic University](https://um6p.ma/), [SAS](https://www.sas.com/fr_ch/training/programs/cortex-analytics-simulation-game.html), [ERPsimLab HEC Montereal Canada](http://erpsim.hec.ca/)
