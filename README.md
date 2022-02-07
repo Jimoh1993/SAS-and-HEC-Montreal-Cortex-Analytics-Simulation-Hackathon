@@ -19,8 +19,7 @@ campaign to its list of marketing activities. You will be using a predictive mod
 and which individuals to target in the campaign. The objective is to fundraise the most in donation amount given the costs of calling members (sum of predicted amount given minus costs).
 You will be provided with the dataset of potential donors, and pre-built diagrams in the software,
 which will fit models based on previous behavior of donors (if they gave or not or how much they
-gave) and will also score donors to predict this year donation. The list of scored donors will be
-exported to an output file/report.
+gave) and will also score donors to predict this year donation. The list of scored donors will be exported to an output file/report.
 Using this output, you will have to decide how many potential donors to target and will have to create a list of IDs of those potential donors. You will have to upload/submit the created list to the platform which will rank the submissions based on operating surplus – i.e., sum of donations minus
 the total cost of calling. 
 
