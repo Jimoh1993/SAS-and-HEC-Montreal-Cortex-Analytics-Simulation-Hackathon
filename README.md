@@ -10,7 +10,7 @@
 # Date: December 2021 
 # Time: 3 days 72 hours Hackathon
 
-This project is a  to create a predictive model to analyze the donor's behavior to maximize the operating surplus for the fundraising campaign. The model platform is created by SAS Analytics.
+This project is a  to create a predictive model to analyze the donor's behavior to maximize the operating surplus for the fundraising campaign. The model platform is created by SAS.
 
 # Project Scenario
 You will be working on a fundraising campaign for a 12-year old, not-for-profit charitable organization (foundation) with a million members. The foundation has decided to add a direct contact
